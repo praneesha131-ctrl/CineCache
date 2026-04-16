@@ -1,0 +1,200 @@
+1|The Shawshank Redemption|1994|9.3|Drama|Frank Darabont|Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts 
+2|The Godfather|1972|9.2|Crime, Drama|Francis Ford Coppola|The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his 
+3|The Dark Knight|2008|9.0|Action, Crime, Drama|Christopher Nolan|When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accep
+4|The Lord of the Rings: The Return of the King|2003|9.0|Action, Adventure, Drama|Peter Jackson|Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam 
+5|Schindler's List|1993|9.0|Biography, Drama, History|Steven Spielberg|In German-occupied Poland during World War II, industrialist  gradually becomes concerned for his Je
+6|The Godfather Part II|1974|9.0|Crime, Drama|Francis Ford Coppola|The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Micha
+7|12 Angry Men|1957|9.0|Crime, Drama|Sidney Lumet|The jury in a New York City murder trial is frustrated by a single member whose skeptical caution fo
+8|Jai Bhim|2021|8.9|Crime, Drama, Mystery|T.J. Gnanavel|When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer t
+9|Pulp Fiction|1994|8.9|Crime, Drama|Quentin Tarantino|The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwin
+10|Inception|2010|8.8|Action, Adventure, Sci-Fi|Christopher Nolan|A thief who steals corporate secrets through the use of dream-sharing technology is given the invers
+11|The Lord of the Rings: The Two Towers|2002|8.8|Action, Adventure, Drama|Peter Jackson|While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship
+12|Fight Club|1999|8.8|Drama|David Fincher|An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolv
+13|The Lord of the Rings: The Fellowship of the Ring|2001|8.8|Action, Adventure, Drama|Peter Jackson|A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One R
+14|Forrest Gump|1994|8.8|Drama, Romance|Robert Zemeckis|The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical
+15|The Good, the Bad and the Ugly|1966|8.8|Adventure, Western|Sergio Leone|A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortun
+16|Soorarai Pottru|2020|8.7|Drama|Sudha Kongara|Nedumaaran Rajangam "Maara" sets out to make the common man fly and in the process takes on the worl
+17|The Matrix|1999|8.7|Action, Sci-Fi|Lana Wachowski|When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the sho
+18|Goodfellas|1990|8.7|Biography, Crime, Drama|Martin Scorsese|The story of  and his life in the mob, covering his relationship with his wife Karen Hill and his mo
+19|Star Wars: Episode V - The Empire Strikes Back|1980|8.7|Action, Adventure, Fantasy|Irvin Kershner|After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begin
+20|One Flew Over the Cuckoo's Nest|1975|8.7|Drama|Milos Forman|A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppr
+21|Top Gun: Maverick|2022|8.6|Action, Drama|Joseph Kosinski|After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he
+22|Interstellar|2014|8.6|Adventure, Drama, Sci-Fi|Christopher Nolan|A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+23|City of God|2002|8.6|Crime, Drama|Fernando Meirelles|In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other
+24|Spirited Away|2001|8.6|Animation, Adventure, Family|Hayao Miyazaki|During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by god
+25|Saving Private Ryan|1998|8.6|Drama, War|Steven Spielberg|Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratr
+26|The Green Mile|1999|8.6|Crime, Drama, Fantasy|Frank Darabont|The lives of guards on Death Row are affected by one of their charges: a black man accused of child 
+27|Life Is Beautiful|1997|8.6|Comedy, Drama, Romance|Roberto Benigni|When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mix
+28|Seven|1995|8.6|Crime, Drama, Mystery|David Fincher|Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his m
+29|Terminator 2: Judgment Day|1991|8.6|Action, Sci-Fi|James Cameron|A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old so
+30|The Silence of the Lambs|1991|8.6|Crime, Drama, Thriller|Jonathan Demme|A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to he
+31|Star Wars|1977|8.6|Action, Adventure, Fantasy|George Lucas|Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the 
+32|Harakiri|1962|8.6|Action, Drama, Mystery|Masaki Kobayashi|When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another r
+33|Seven Samurai|1954|8.6|Action, Drama|Akira Kurosawa|"A veteran samurai, gathers six samurais to protect a village from the cruel bandits. As the samurai
+34|It's a Wonderful Life|1946|8.6|Drama, Family, Fantasy|Frank Capra|An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life w
+35|Asuran|2019|8.5|Action, Drama|Vetrimaaran|The teenage son of a farmer from an underprivileged caste kills a rich, upper caste landlord. Will t
+36|Parasite|2019|8.5|Comedy, Drama, Thriller|Bong Joon Ho|Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy 
+37|Whiplash|2014|8.5|Drama, Music|Damien Chazelle|A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness a
+38|Untouchable|2011|8.5|Biography, Comedy, Drama|Olivier Nakache|After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from th
+39|K.G.F: Chapter 2|2022|8.5|Action, Crime, Drama|Prashanth Neel|In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes. While his allies loo
+40|Sardar Udham|2021|8.5|Biography, Crime, Drama|Shoojit Sircar|A biopic detailing the 2 decades that Punjabi Sikh revolutionary Udham Singh spent planning the assa
+41|The Prestige|2006|8.5|Drama, Mystery, Sci-Fi|Christopher Nolan|After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultima
+42|The Departed|2006|8.5|Crime, Drama, Thriller|Martin Scorsese|An undercover cop and a mole in the police attempt to identify each other while infiltrating an Iris
+43|The Pianist|2002|8.5|Biography, Drama, Music|Roman Polanski|A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+44|Gladiator|2000|8.5|Action, Adventure, Drama|Ridley Scott|A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his fami
+45|American History X|1998|8.5|Crime, Drama|Tony Kaye|A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path 
+46|The Usual Suspects|1995|8.5|Crime, Drama, Mystery|Bryan Singer|A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which bega
+47|Leon|1994|8.5|Action, Crime, Drama|Luc Besson|12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is m
+48|The Lion King|1994|8.5|Animation, Adventure, Drama|Roger Allers|Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne hi
+49|Cinema Paradiso|1988|8.5|Drama, Romance|Giuseppe Tornatore|A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home v
+50|Grave of the Fireflies|1988|8.5|Animation, Drama, War|Isao Takahata|A young boy and his little sister struggle to survive in Japan during World War II.
+51|Back to the Future|1985|8.5|Adventure, Comedy, Sci-Fi|Robert Zemeckis|Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a
+52|Apocalypse Now|1979|8.5|Drama, Mystery, War|Francis Ford Coppola|A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colone
+53|Alien|1979|8.5|Horror, Sci-Fi|Ridley Scott|The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown trans
+54|Once Upon a Time in the West|1968|8.5|Western|Sergio Leone|A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautifu
+55|Psycho|1960|8.5|Horror, Mystery, Thriller|Alfred Hitchcock|A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a
+56|Rear Window|1954|8.5|Mystery, Thriller|Alfred Hitchcock|A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartmen
+57|Casablanca|1942|8.5|Drama, Romance, War|Michael Curtiz|A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover
+58|Modern Times|1936|8.5|Comedy, Drama, Romance|Charles Chaplin|The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
+59|City Lights|1931|8.5|Comedy, Drama, Romance|Charles Chaplin|With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless
+60|Hamilton|2020|8.4|Biography, Drama, History|Thomas Kail|The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Ale
+61|Capernaum|2018|8.4|Drama|Nadine Labaki|While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for negle
+62|Joker|(I) (2019)|8.4|Crime, Drama, Thriller|Todd Phillips|A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an 
+63|96|(II) (2018)|8.4|Drama, Romance|C. Prem Kumar|Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.
+64|Your Name.|2016|8.4|Animation, Drama, Fantasy|Makoto Shinkai|Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the
+65|Spider-Man: Into the Spider-Verse|2018|8.4|Animation, Action, Adventure|Bob Persichetti|Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered in
+66|Avengers: Endgame|2019|8.4|Action, Adventure, Drama|Anthony Russo|After the devastating events of  (2018), the universe is in ruins. With the help of remaining allies
+67|Avengers: Infinity War|2018|8.4|Action, Adventure, Sci-Fi|Anthony Russo|The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful 
+68|Coco|(I) (2017)|8.4|Animation, Adventure, Comedy|Lee Unkrich|Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of th
+69|Django Unchained|2012|8.4|Drama, Western|Quentin Tarantino|With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal pla
+70|The Dark Knight Rises|2012|8.4|Action, Drama|Christopher Nolan|Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is 
+71|Drishyam 2|2021|8.4|Crime, Drama, Thriller|Jeethu Joseph|A gripping tale of an investigation and a family which is threatened by it. Will Georgekutty be able
+72|3 Idiots|2009|8.4|Comedy, Drama|Rajkumar Hirani|Two friends are searching for their long lost companion. They revisit their college days and recall 
+73|Shershaah|2021|8.4|Action, Biography, Drama|Vishnuvardhan|The story of PVC awardee Indian soldier Capt. Vikram Batra, who shot to fame and became a household 
+74|WALL·E|2008|8.4|Animation, Adventure, Family|Andrew Stanton|In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that 
+75|The Lives of Others|2006|8.4|Drama, Mystery, Thriller|Florian Henckel von Donnersmarck|In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his love
+76|Oldboy|2003|8.4|Action, Drama, Mystery|Park Chan-wook|After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he 
+77|Memento|2000|8.4|Mystery, Thriller|Christopher Nolan|A man with short-term memory loss attempts to track down his wife's murderer.
+78|American Beauty|1999|8.4|Drama|Sam Mendes|A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daugh
+79|Princess Mononoke|1997|8.4|Animation, Adventure, Fantasy|Hayao Miyazaki|On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a wa
+80|Braveheart|1995|8.4|Biography, Drama, History|Mel Gibson|Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the t
+81|Aliens|1986|8.4|Action, Adventure, Sci-Fi|James Cameron|Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space c
+82|Amadeus|1984|8.4|Biography, Drama, Music|Milos Forman|The life, success and troubles of , as told by , the contemporaneous composer who was insanely jealo
+83|Raiders of the Lost Ark|1981|8.4|Action, Adventure|Steven Spielberg|In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark 
+84|Das Boot|1981|8.4|Drama, War|Wolfgang Petersen|The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.
+85|The Shining|1980|8.4|Drama, Horror|Stanley Kubrick|A family heads to an isolated hotel for the winter where a sinister presence influences the father i
+86|High and Low|1963|8.4|Crime, Drama, Mystery|Akira Kurosawa|An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is ki
+87|Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb|1964|8.4|Comedy, War|Stanley Kubrick|An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear
+88|Witness for the Prosecution|1957|8.4|Crime, Drama, Mystery|Billy Wilder|A veteran British barrister must defend his client in a murder trial that has surprise after surpris
+89|Paths of Glory|1957|8.4|Drama, War|Stanley Kubrick|After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their co
+90|Sunset Blvd.|1950|8.4|Drama, Film-Noir|Billy Wilder|A screenwriter develops a dangerous relationship with a faded film star determined to make a triumph
+91|The Great Dictator|1940|8.4|Comedy, Drama, War|Charles Chaplin|Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecu
+92|Raatchasan|2018|8.3|Crime, Drama, Mystery|Ram Kumar|A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and 
+93|Everything Everywhere All at Once|2022|8.3|Action, Adventure, Comedy|Dan Kwan|An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by
+94|Ayla|2017|8.3|Biography, Drama, History|Can Ulkay|In 1950, amid-st the ravages of the Korean War, Sergeant Süleyman stumbles upon a half-frozen little
+95|Dangal|2016|8.3|Action, Biography, Drama|Nitesh Tiwari|Former wrestler  and his two wrestler daughters struggle towards glory at the Commonwealth Games in 
+96|Drishyam|2013|8.3|Crime, Drama, Thriller|Jeethu Joseph|A man goes to extreme lengths to save his family from punishment after the family commits an acciden
+97|The Hunt|2012|8.3|Drama|Thomas Vinterberg|A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets
+98|A Separation|2011|8.3|Drama|Asghar Farhadi|A married couple are faced with a difficult decision - to improve the life of their child by moving 
+99|Incendies|2010|8.3|Drama, Mystery|Denis Villeneuve|Twins journey to the Middle East to discover their family history and fulfill their mother's last wi
+100|Spider-Man: No Way Home|2021|8.3|Action, Adventure, Fantasy|Jon Watts|With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong
+101|Up|2009|8.3|Animation, Adventure, Comedy|Pete Docter|78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvert
+102|Like Stars on Earth|2007|8.3|Drama, Family|Aamir Khan|An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patie
+103|Toy Story 3|2010|8.3|Animation, Adventure, Comedy|Lee Unkrich|The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves
+104|Inglourious Basterds|2009|8.3|Adventure, Drama, War|Quentin Tarantino|In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish
+105|Eternal Sunshine of the Spotless Mind|2004|8.3|Drama, Romance, Sci-Fi|Michel Gondry|When their relationship turns sour, a couple undergoes a medical procedure to have each other erased
+106|Amélie|2001|8.3|Comedy, Romance|Jean-Pierre Jeunet|Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help tho
+107|Snatch|2000|8.3|Comedy, Crime|Guy Ritchie|Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers a
+108|Requiem for a Dream|2000|8.3|Drama|Darren Aronofsky|The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+109|Good Will Hunting|1997|8.3|Drama, Romance|Gus Van Sant|Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to
+110|Toy Story|1995|8.3|Animation, Adventure, Comedy|John Lasseter|A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top t
+111|Heat|1995|8.3|Action, Crime, Drama|Michael Mann|A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly 
+112|Reservoir Dogs|1992|8.3|Crime, Drama, Thriller|Quentin Tarantino|When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one o
+113|Full Metal Jacket|1987|8.3|Drama, War|Stanley Kubrick|A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits
+114|Come and See|1985|8.3|Drama, Thriller, War|Elem Klimov|After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German
+115|Once Upon a Time in America|1984|8.3|Crime, Drama|Sergio Leone|A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later,
+116|Scarface|1983|8.3|Crime, Drama|Brian De Palma|In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+117|Star Wars: Return of the Jedi|1983|8.3|Action, Adventure, Fantasy|Richard Marquand|After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destr
+118|The Sting|1973|8.3|Comedy, Crime, Drama|George Roy Hill|Two grifters team up to pull off the ultimate con.
+119|A Clockwork Orange|1971|8.3|Crime, Sci-Fi|Stanley Kubrick|In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment
+120|2001: A Space Odyssey|1968|8.3|Adventure, Sci-Fi|Stanley Kubrick|After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jup
+121|To Kill a Mockingbird|1962|8.3|Crime, Drama|Robert Mulligan|Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved
+122|Lawrence of Arabia|1962|8.3|Adventure, Biography, Drama|David Lean|The story of , the English officer who successfully united and led the diverse, often warring, Arab 
+123|Judgment at Nuremberg|1961|8.3|Drama, War|Stanley Kramer|In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.
+124|The Apartment|1960|8.3|Comedy, Drama, Romance|Billy Wilder|A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment
+125|North by Northwest|1959|8.3|Action, Adventure, Mystery|Alfred Hitchcock|A New York City advertising executive goes on the run after being mistaken for a government agent by
+126|Vertigo|1958|8.3|Mystery, Romance, Thriller|Alfred Hitchcock|A former San Francisco police detective juggles wrestling with his personal demons and becoming obse
+127|Pather Panchali|1955|8.3|Drama|Satyajit Ray|Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his ru
+128|Singin' in the Rain|1952|8.3|Comedy, Musical, Romance|Stanley Donen|A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner ar
+129|Ikiru|1952|8.3|Drama|Akira Kurosawa|A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.
+130|Bicycle Thieves|1948|8.3|Drama|Vittorio De Sica|In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He
+131|Double Indemnity|1944|8.3|Crime, Drama, Film-Noir|Billy Wilder|A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insura
+132|Citizen Kane|1941|8.3|Drama, Mystery|Orson Welles|Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the mean
+133|M|1931|8.3|Crime, Mystery, Thriller|Fritz Lang|When the police in a German city are unable to catch a child-murderer, other criminals join in the m
+134|Metropolis|1927|8.3|Drama, Sci-Fi|Fritz Lang|In a futuristic city sharply divided between the working class and the city planners, the son of the
+135|The Kid|1921|8.3|Comedy, Drama, Family|Charles Chaplin|The Tramp cares for an abandoned child, but events put their relationship in jeopardy.
+136|Chhichhore|2019|8.2|Comedy, Drama, Romance|Nitesh Tiwari|A tragic incident forces Anirudh, a middle-aged man, to take a trip down memory lane and reminisce h
+137|1917|2019|8.2|Action, Drama, War|Sam Mendes|April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldier
+138|Uri: The Surgical Strike|2019|8.2|Action, Drama, History|Aditya Dhar|Indian army special forces execute a covert operation, avenging the killing of fellow army men at th
+139|Tumbbad|2018|8.2|Drama, Fantasy, Horror|Rahi Anil Barve|A mythological story about a goddess who created the entire universe. The plot revolves around the c
+140|Andhadhun|2018|8.2|Comedy, Crime, Music|Sriram Raghavan|A series of mysterious events change the life of a blind pianist, who must now report a crime that h
+141|K.G.F|2018|8.2|Action, Crime, Drama|Prashanth Neel|In the 1970s, a gangster goes undercover as a slave to assassinate the owner of a notorious gold min
+142|Green Book|2018|8.2|Biography, Comedy, Drama|Peter Farrelly|A working-class Italian-American bouncer becomes the driver for an African-American classical pianis
+143|Vikram Vedha|2017|8.2|Action, Crime, Drama|Gayatri|Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture V
+144|Baahubali 2: The Conclusion|2017|8.2|Action, Drama|S.S. Rajamouli|When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story
+145|Drishyam|2015|8.2|Crime, Drama, Mystery|Nishikant Kamat|Desperate measures are taken by a man who tries to save his family from the dark side of the law, af
+146|Bhaag Milkha Bhaag|2013|8.2|Biography, Drama, Sport|Rakeysh Omprakash Mehra|The truth behind the ascension of , who was scarred by of the India-Pakistan partition.
+147|Inside Out|(I) (2015)|8.2|Animation, Adventure, Comedy|Pete Docter|After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, 
+148|Gangs of Wasseypur|2012|8.2|Action, Comedy, Crime|Anurag Kashyap|A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a 
+149|Paan Singh Tomar|2012|8.2|Action, Biography, Crime|Tigmanshu Dhulia|The story of Paan Singh Tomar, an Indian athlete and seven-time national steeplechase champion who b
+150|The Secret in Their Eyes|2009|8.2|Drama, Mystery, Romance|Juan José Campanella|A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homic
+151|Warrior|2011|8.2|Action, Drama, Sport|Gavin O'Connor|The youngest son of an alcoholic former boxer returns home, where he's trained by his father for com
+152|Shutter Island|2010|8.2|Mystery, Thriller|Martin Scorsese|In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for
+153|Demon Slayer the Movie: Mugen Train|2020|8.2|Animation, Action, Adventure|Haruo Sotozaki|After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey 
+154|Miracle in Cell No. 7|2019|8.2|Drama|Mehmet Ada Öztekin|A story of love between a mentally-ill father who was wrongly accused of murder and his lovely six y
+155|Article 15|2019|8.2|Crime, Drama, Mystery|Anubhav Sinha|In the rural heartlands of India, an upright police officer sets out on a crusade against violent ca
+156|The Father|(I) (2020)|8.2|Drama, Mystery|Florian Zeller|A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing
+157|The Wolf of Wall Street|2013|8.2|Biography, Comedy, Crime|Martin Scorsese|Based on the true story of , from his rise to a wealthy stock-broker living the high life to his fal
+158|No Country for Old Men|2007|8.2|Crime, Drama, Thriller|Ethan Coen|Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two mill
+159|My Father and My Son|2005|8.2|Drama, Family|Cagan Irmak|The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.
+160|There Will Be Blood|2007|8.2|Drama|Paul Thomas Anderson|A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector i
+161|Pan's Labyrinth|2006|8.2|Drama, Fantasy, War|Guillermo del Toro|In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes in
+162|V for Vendetta|2005|8.2|Action, Drama, Sci-Fi|James McTeigue|In a future British dystopian society, a shadowy freedom fighter, known only by the alias of "V", pl
+163|Batman Begins|2005|8.2|Action, Crime, Drama|Christopher Nolan|After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corrup
+164|Downfall|2004|8.2|Biography, Drama, History|Oliver Hirschbiegel|, the final secretary for , tells of the Nazi dictator's final days in his Berlin bunker at the end 
+165|Howl's Moving Castle|2004|8.2|Animation, Adventure, Family|Hayao Miyazaki|When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of b
+166|A Beautiful Mind|2001|8.2|Biography, Drama|Ron Howard|After , a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a
+167|Kill Bill: Vol. 1|2003|8.2|Action, Crime, Drama|Quentin Tarantino|After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins w
+168|Finding Nemo|2003|8.2|Animation, Adventure, Comedy|Andrew Stanton|After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out 
+169|The Sixth Sense|1999|8.2|Drama, Mystery, Thriller|M. Night Shyamalan|A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a dishearte
+170|Lock, Stock and Two Smoking Barrels|1998|8.2|Action, Comedy, Crime|Guy Ritchie|Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster,
+171|The Truman Show|1998|8.2|Comedy, Drama|Peter Weir|An insurance salesman discovers his whole life is actually a reality TV show.
+172|L.A. Confidential|1997|8.2|Crime, Drama, Mystery|Curtis Hanson|As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sl
+173|Children of Heaven|1997|8.2|Drama, Family, Sport|Majid Majidi|After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find the
+174|Casino|1995|8.2|Crime, Drama|Martin Scorsese|A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforce
+175|Jurassic Park|1993|8.2|Action, Adventure, Sci-Fi|Steven Spielberg|A pragmatic paleontologist touring an almost complete theme park on an island in Central America is 
+176|Unforgiven|1992|8.2|Drama, Western|Clint Eastwood|Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his ol
+177|Indiana Jones and the Last Crusade|1989|8.2|Action, Adventure|Steven Spielberg|In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Pro
+178|Die Hard|1988|8.2|Action, Thriller|John McTiernan|An NYPD officer tries to save his wife and several others taken hostage by German terrorists during 
+179|Ran|1985|8.2|Action, Drama, War|Akira Kurosawa|In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, h
+180|The Thing|1982|8.2|Horror, Mystery, Sci-Fi|John Carpenter|A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its
+181|Raging Bull|1980|8.2|Biography, Drama, Sport|Martin Scorsese|The life of boxer , whose violence and temper that led him to the top in the ring destroyed his life
+182|The Elephant Man|1980|8.2|Biography, Drama|David Lynch|A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a 
+183|Taxi Driver|1976|8.2|Crime, Drama|Martin Scorsese|A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived d
+184|Monty Python and the Holy Grail|1975|8.2|Adventure, Comedy, Fantasy|Terry Gilliam|King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy G
+185|Dersu Uzala|1975|8.2|Adventure, Biography, Drama|Akira Kurosawa|The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes 
+186|Chinatown|1974|8.2|Drama, Mystery, Thriller|Roman Polanski|A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a w
+187|Z|1969|8.2|Crime, Drama, Thriller|Costa-Gavras|The public murder of a prominent politician and doctor amid a violent demonstration is covered up by
+188|For a Few Dollars More|1965|8.2|Western|Sergio Leone|Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.
+189|The Great Escape|1963|8.2|Adventure, Drama, History|John Sturges|Allied prisoners of war plan for several hundred of their number to escape from a German camp during
+190|Yojimbo|1961|8.2|Action, Drama, Thriller|Akira Kurosawa|A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each o
+191|Some Like It Hot|1959|8.2|Comedy, Music, Romance|Billy Wilder|After two male musicians witness a mob hit, they flee the state in an all-female band disguised as w
+192|The Bridge on the River Kwai|1957|8.2|Adventure, Drama, War|David Lean|British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors i
+193|Dial M for Murder|1954|8.2|Crime, Thriller|Alfred Hitchcock|A former tennis star arranges the murder of his adulterous wife.
+194|Tokyo Story|1953|8.2|Drama|Yasujirô Ozu|An old couple visit their children and grandchildren in the city, but receive little attention.
+195|The Wages of Fear|1953|8.2|Adventure, Drama, Thriller|Henri-Georges Clouzot|In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipm
+196|Umberto D.|1952|8.2|Drama|Vittorio De Sica|An elderly man and his dog struggle to survive on his government pension in Rome.
+197|Rashomon|1950|8.2|Crime, Drama, Mystery|Akira Kurosawa|The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a ba
+198|All About Eve|1950|8.2|Drama|Joseph L. Mankiewicz|A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadw
+199|The Treasure of the Sierra Madre|1948|8.2|Adventure, Drama, Western|John Huston|Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to he
+200|To Be or Not to Be|1942|8.2|Comedy, Romance, War|Ernst Lubitsch|During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's effor
